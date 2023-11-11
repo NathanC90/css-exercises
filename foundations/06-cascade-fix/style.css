@@ -6,3 +6,18 @@
 .small-para {
     font-size: 1em;
 }
+
+.confirm {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+.cancel {
+    background-color: white;
+    color: black;
+}
+
+.button {
+    font-size: 1.5em;
+}
