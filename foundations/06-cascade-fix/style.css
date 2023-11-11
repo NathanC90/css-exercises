@@ -21,3 +21,12 @@
 .button {
     font-size: 1.5em;
 }
+
+.text {
+    font-size: 2em;
+}
+
+.text .child {
+    font-size: 0.8em;
+    font-weight: bold;
+}
